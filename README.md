@@ -24,9 +24,7 @@ This repository contains four files:
 The directory `Resources` contains a file `SMSSpamCollection.csv` that is the data input for the Challenge.
 
 ## Technical Requirements
-The code for the Challenge is in forecasting_net_prophet.ipynb. This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, prophet, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.
-
-The file forecasting_net_prophet_orig.ipynb is the original starter file provided for the challenge. It is part of the project for reference only. The directory Resources contains the data file client_dataset.csv provided for the challenge.
+The code for the Challenge is in `gradio_sms_text_classification.ipynb.` This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, prophet, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.
 
 
 ## Run the code
