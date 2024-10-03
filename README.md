@@ -36,6 +36,13 @@ The jupyter notebook requires the `gradio` framework along with several modules 
 
 
 ## Requirements and Solution
+The solution to the challenge meets all the specified requirements:
+1. An SMS Classificaiton Function is created
+2. An SMS Prediction Function is created
+3. A Gradio App is created that uses the Prediction and Classification functions to take text input from a user, user the prediction function to predict if the text is spam or not, and display the result to the user.
+
+The Challenged provided 4 text messages to test the application. The images below show how the solution performs against those 4 text messages.
+
 ![Screenshot 2024-10-03 at 6 33 13 PM](https://github.com/user-attachments/assets/056705db-18dd-4cdf-a7bb-663e6ce5f8fa)
 ![Screenshot 2024-10-03 at 6 34 18 PM](https://github.com/user-attachments/assets/6661d567-57d2-4e97-aa0d-2eaf0d927dc2)
 ![Screenshot 2024-10-03 at 6 35 18 PM](https://github.com/user-attachments/assets/2ef60538-066e-47cb-831a-046fd546b7b5)
