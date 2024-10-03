@@ -10,7 +10,9 @@
 
 ## Overview
 
+
 ## Background
+This challenge refactors code from an SMS text classification solution into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created and trained, a Gradio app is developed to host the application. This app enabling users to test text messages. The application provides feedback to users, indicating whether the text is classified as spam or not, based on the model's performance.
 
 ## Files
 
