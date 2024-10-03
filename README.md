@@ -24,6 +24,11 @@ This repository contains four files:
 The directory `Resources` contains a file `SMSSpamCollection.csv` that is the data input for the Challenge.
 
 ## Technical Requirements
+Assuming a python interpreter is installed and is at least version 3.10 or greater, the jupyter notebook runtime, and the prophet framework from Meta/Facebook, the program can be executed by calling the jupyter notebook runtime in the directory: E.g., $> jupyter notebook. Once the notebook is running you run each code fragment individually or click on the "Run All" button. It can also be run in Google's Collab.
+
+Alternatively it can be executed from within and IDE if the IDE is configured to run python code and is at least 3.10 compatible and a jupyter notebook runtime is installed.
+
+The jupyter notebook requires the `gradio` framework along with several modules from `sklearn.` The jupyter notebook uses `pip` to install gradio.
 
 ## Run the code
 
