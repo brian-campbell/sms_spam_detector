@@ -19,9 +19,10 @@ This repository contains four files:
 *  gradio_sms_text_classification.ipynb - this file is the final solution for the project. It is a Jupyter Notebook. It contains all the required code to solve for the challenge based on specified requirements.
 *  gradio_sms_text_classification_orig.ipynb - this is the orginal file provided by the class. It is only here for reference purposes and is not part of the final solution.
 *  sms_text_classification_solution.ipynb - this is the original file that contains the code for the SMS text classification solution that was refactored and included in the final solution file `gradio_sms_text_classification.ipynb.` No changes were made to this file.
-*  savings_account.py - the contains the code for the saving functionality. It contains the `create_savings_account` method that takes 3 parameters - `balance`, `interest_rate`, and `months`. The method creates an instance of the `Account` class, calculates interest earned based on the balance, interest rate, and months values input by a user and passed to the function. It returns the updated balance and interest earned as a tuple.
+*  sms_text_classification_solution_orig.ipynb - this file is the same as `sms_text_classification_solution.ipynb.` It was added to the project when the repository was originally created. It serves no purpose and is an artifact that could be removed.
 
-There is no directory structure for this repo.
+The directory `Resources` contains a file `SMSSpamCollection.csv` that is the data input for the Challenge.
+
 ## Technical Requirements
 
 ## Run the code
